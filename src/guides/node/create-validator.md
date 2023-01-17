@@ -1,5 +1,5 @@
 # Creating a New Minipool (Validator)
-
+https://stake.rocketpool.net/stake-behalf
 As a reminder, a `minipool` in Rocket Pool terms refers to a unique smart contract instance on the Execution Layer (ETH1) chain that your node manages.
 The minipool handles 16 of your ETH, 16 ETH from the rETH staking pool, and merges them together so that it can send 32 ETH to the Beacon Chain deposit contract to create a new validator.
 Thus, in order to create a validator using Rocket Pool, you need to **create a minipool**.
